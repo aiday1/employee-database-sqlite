@@ -47,5 +47,7 @@ db.update_employee(aidai)
 db.delete_employee(203)
 ```
 ![img.png](img.png)
+
+
 👩‍💻 Author
 Aidai Totoeva
